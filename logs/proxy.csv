@@ -1,0 +1,21 @@
+timestamp,src_ip,user,method,url,user_agent,status,bytes_sent,bytes_received
+2026-09-14 07:58:03,10.1.1.52,m.alvarez,GET,http://www.meridianfinance-intranet.example/intranet/portal,Mozilla/5.0 (Windows NT 10.0; Win64; x64),200,212,1842
+2026-09-14 08:03:12,10.1.1.52,m.alvarez,GET,http://svc-update.contoso-cdn.example/news/index.html?sid=a3F0eHZ3b2Y=,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),200,238,118
+2026-09-14 08:08:12,10.1.1.52,m.alvarez,GET,http://svc-update.contoso-cdn.example/news/index.html?sid=b3BlbnNlc3Npb24=,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),200,238,118
+2026-09-14 08:13:12,10.1.1.52,m.alvarez,GET,http://svc-update.contoso-cdn.example/news/index.html?sid=c2Vzc2lvbi1hMg==,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),200,238,118
+2026-09-14 08:18:12,10.1.1.52,m.alvarez,GET,http://svc-update.contoso-cdn.example/news/index.html?sid=dXBkYXRlLWNoZWNr,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),200,238,118
+2026-09-14 08:23:12,10.1.1.52,m.alvarez,GET,http://svc-update.contoso-cdn.example/news/index.html?sid=aGVsbG8tYWNr,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),200,238,118
+2026-09-14 08:28:12,10.1.1.52,m.alvarez,GET,http://svc-update.contoso-cdn.example/news/index.html?sid=c3RhdHVzLW9r,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),200,238,118
+2026-09-14 08:33:12,10.1.1.52,m.alvarez,GET,http://svc-update.contoso-cdn.example/news/index.html?sid=cG9sbC0wMQ==,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),200,238,118
+2026-09-14 08:38:12,10.1.1.52,m.alvarez,GET,http://svc-update.contoso-cdn.example/news/index.html?sid=cG9sbC0wMg==,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),200,238,118
+2026-09-14 08:50:00,10.1.1.52,m.alvarez,GET,http://svc-update.contoso-cdn.example/news/index.html?sid=a3F0eHZ3b2Y=,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),200,238,118
+2026-09-14 08:55:00,10.1.1.52,m.alvarez,GET,http://svc-update.contoso-cdn.example/news/index.html?sid=b3BlbnNlc3Npb24=,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),200,238,118
+2026-09-14 09:00:00,10.1.1.52,m.alvarez,GET,http://svc-update.contoso-cdn.example/news/index.html?sid=c2Vzc2lvbi1hMg==,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),200,238,118
+2026-09-14 09:05:00,10.1.1.52,m.alvarez,GET,http://svc-update.contoso-cdn.example/news/index.html?sid=dXBkYXRlLWNoZWNr,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),200,238,118
+2026-09-14 09:10:00,10.1.1.52,m.alvarez,GET,http://svc-update.contoso-cdn.example/news/index.html?sid=aGVsbG8tYWNr,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),200,238,118
+2026-09-14 09:15:00,10.1.1.52,m.alvarez,GET,http://svc-update.contoso-cdn.example/news/index.html?sid=c3RhdHVzLW9r,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),200,238,118
+2026-09-14 09:20:00,10.1.1.52,m.alvarez,GET,http://svc-update.contoso-cdn.example/news/index.html?sid=cG9sbC0wMQ==,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),200,238,118
+2026-09-14 09:25:00,10.1.1.52,m.alvarez,GET,http://svc-update.contoso-cdn.example/news/index.html?sid=cG9sbC0wMg==,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),200,238,118
+2026-09-14 09:30:00,10.1.1.52,m.alvarez,GET,http://svc-update.contoso-cdn.example/news/index.html?sid=a3F0eHZ3b2Y=,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),200,238,118
+2026-09-14 09:35:00,10.1.1.52,m.alvarez,GET,http://svc-update.contoso-cdn.example/news/index.html?sid=b3BlbnNlc3Npb24=,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),200,238,118
+2026-09-14 09:41:03,10.1.1.52,m.alvarez,POST,http://svc-update.contoso-cdn.example/news/upload.php,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),200,419622,2

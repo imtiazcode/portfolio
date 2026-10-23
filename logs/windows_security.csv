@@ -1,0 +1,4 @@
+timestamp,event_id,event_type,details
+2026-09-14 07:55:02,4624,An account was successfully logged on,TargetUserName=m.alvarez; LogonType=2; WorkstationName=FIN-WKS07
+2026-09-14 08:44:15,4648,A logon was attempted using explicit credentials,SubjectUserName=m.alvarez; TargetServerName=10.1.1.10
+2026-09-14 09:41:08,4688,A new process has been created,NewProcessName=C:\Windows\System32\svchost32.exe; CreatorProcessName=explorer.exe

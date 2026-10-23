@@ -1,0 +1,9 @@
+timestamp,src_ip,query,qtype,answer,ttl
+2026-09-14 07:58:02,10.1.1.52,www.meridianfinance-intranet.example,A,203.0.113.20,300
+2026-09-14 08:03:12,10.1.1.52,svc-update.contoso-cdn.example,A,203.0.113.77,300
+2026-09-14 09:38:00,10.1.1.52,www.meridianfinance-intranet.example,A,198.51.100.33,300
+2026-09-14 09:45:00,10.1.1.52,www.meridianfinance-intranet.example,A,198.51.100.33,300
+2026-09-14 09:52:00,10.1.1.52,www.meridianfinance-intranet.example,A,198.51.100.33,300
+2026-09-14 09:59:00,10.1.1.52,www.meridianfinance-intranet.example,A,198.51.100.33,300
+2026-09-14 10:06:00,10.1.1.52,www.meridianfinance-intranet.example,A,198.51.100.33,300
+2026-09-14 10:13:00,10.1.1.52,www.meridianfinance-intranet.example,A,198.51.100.33,300

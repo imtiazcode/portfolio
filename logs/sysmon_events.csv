@@ -1,0 +1,10 @@
+timestamp,event_id,event_type,details
+2026-09-14 08:03:10,11,FileCreate,TargetFilename=C:\Users\m.alvarez\AppData\Local\Temp\Q3_Invoice_Statement.pdf.exe; Image=C:\Program Files\Mozilla Thunderbird\thunderbird.exe
+2026-09-14 08:03:11,1,ProcessCreate,"Image=C:\Users\m.alvarez\AppData\Local\Temp\Q3_Invoice_Statement.pdf.exe; CommandLine=""Q3_Invoice_Statement.pdf.exe""; ParentImage=explorer.exe; Hashes=MD5=9F3C2A1B7E4D5F60718293A4B5C6D7E8,SHA256=6C0D8B2E1F4A7C3D9E5B8A1F2C4D6E7B9A0C3D5E7F1A2B4C6D8E0F2A4B6C8D0E"
+2026-09-14 08:03:12,1,ProcessCreate,Image=C:\Windows\System32\svchost32.exe; CommandLine=svchost32.exe; ParentImage=C:\Users\m.alvarez\AppData\Local\Temp\Q3_Invoice_Statement.pdf.exe; Note=Masquerading as svchost but running from a non-standard path
+2026-09-14 08:03:12,3,NetworkConnect,Image=C:\Windows\System32\svchost32.exe; DestinationIp=203.0.113.77; DestinationPort=80; DestinationHostname=svc-update.contoso-cdn.example
+2026-09-14 08:03:15,13,RegistryEvent(SetValue),TargetObject=HKU\S-1-5-21...\Software\Microsoft\Windows\CurrentVersion\Run\WindowsUpdateHelper; Details=C:\Windows\System32\svchost32.exe; Image=C:\Windows\System32\svchost32.exe
+2026-09-14 08:44:15,1,ProcessCreate,Image=C:\Windows\System32\net.exe; CommandLine=net view \\10.1.1.10; ParentImage=C:\Windows\System32\svchost32.exe
+2026-09-14 08:44:20,1,ProcessCreate,Image=C:\Windows\System32\whoami.exe; CommandLine=whoami /all; ParentImage=C:\Windows\System32\svchost32.exe
+2026-09-14 09:25:10,11,FileCreate,"TargetFilename=C:\Windows\Temp\~tmp8841.dat; Image=C:\Windows\System32\svchost32.exe; Note=Staged archive prior to exfiltration, deleted after upload"
+2026-09-14 09:41:03,3,NetworkConnect,Image=C:\Windows\System32\svchost32.exe; DestinationIp=203.0.113.77; DestinationPort=80; DestinationHostname=svc-update.contoso-cdn.example; BytesSent=419622
